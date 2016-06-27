@@ -1,0 +1,16 @@
+#to create a commit
+git commit -m "describe the commit"
+
+#to see the status
+git status
+
+#to see all the commits
+git log
+
+#to add all the files in the directory
+git add .
+
+#to add one specificy file
+git add name_file
+
+
